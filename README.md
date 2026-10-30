@@ -1,3 +1,3 @@
 # rainplot-pec2
 
-![Raincloud](figure_(1).png)
+![Raincloud](figure (1).png)
